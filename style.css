@@ -1,0 +1,17 @@
+p{
+    color: darkblue;
+}
+
+img{
+    margin: 0;
+    height: 150vh;
+    width: 150vh;
+}
+.icones{
+    width: 50px;
+    margin: 0;
+    height: 50px;
+}
+.header-1{
+    background-color: #252323;
+}
