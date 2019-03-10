@@ -119,3 +119,15 @@ img{
     margin: 0;
     height: auto;
 }
+.cabify{
+    width: 100px;
+    padding: 30px;
+    margin: 0;
+    height: auto;
+}
+.empresas-flex{
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+}
