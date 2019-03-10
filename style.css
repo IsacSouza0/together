@@ -109,3 +109,13 @@ img{
 .visible{
     transform: translateX(0);
 }
+.uber{
+    width: 100px;
+    margin: 0;
+    height: auto;
+}
+.noventa{
+    width: 90px;
+    margin: 0;
+    height: auto;
+}
