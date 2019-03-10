@@ -3,6 +3,12 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+h2{
+    margin-left: 800px;
+    color: #99d9ea;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 20px;
+}
 
 h1{
     color: #99d9ea;
@@ -10,9 +16,9 @@ h1{
     font-family: 'Merriweather Sans', sans-serif;
     font-size: 40px;
 }
-header > div {
-    position: relative;
-}
+/* header > div {
+    position: relative; */
+/* } */
 /* .nav-menu-hamburguer{
     position: absolute;
 } */
@@ -27,10 +33,11 @@ img{
 }
 .icones-1{
     width: 35px;
-    margin: 0;
+    margin:0;
     height: 35px;
 }
 .icones-2{
+    font-size: 10px;
     width: 40px;
     margin: 0;
     height: 40px;
@@ -130,4 +137,11 @@ img{
     display: flex;
     align-items: center;
     justify-content:space-around;
+}
+.botao{
+    align-items: center;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
