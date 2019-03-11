@@ -32,27 +32,34 @@ img{
 
 }
 .icones-1{
-    width: 35px;
+    width: 60px;
     margin:0;
-    height: 35px;
+    height: auto;
 }
 .icones-2{
-    font-size: 10px;
-    width: 40px;
+    width: 90px;
     margin: 0;
-    height: 40px;
+    height: auto;
 }
 .icones-3{
-    width: 40px;
+    width: 90px;
     margin: 0;
-    height: 40px;
+    height: auto;
+}
+.icones-4{
+    width: 60px;
+    margin: 0;
+    height: auto
 }
 
-.div-flex{
+.links{
+    padding-right: 60px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     height: 50px;
     display: flex;
     align-items: center;
-    justify-content:space-around;
+    justify-content: space-around;
 }
 .header-1{
     background-color: #000000;
